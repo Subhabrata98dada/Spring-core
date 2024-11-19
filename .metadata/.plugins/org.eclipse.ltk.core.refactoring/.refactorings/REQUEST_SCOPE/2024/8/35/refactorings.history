@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;REQUEST_SCOPE&apos;&#x0D;&#x0A;- Original project: &apos;REQUEST_SCOPE&apos;&#x0D;&#x0A;- Original element: &apos;REQUEST_SCOPE/src/main/java/com.nt.REQUEST_SCOPE&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nt.REQUEST_SCOPE" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nt" element3="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1725075496518" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,16 @@
+package com.nt.main;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class Main2 {
+	public static void main(String[] args) {
+		String regx="[A-Za-z ]*";
+		String input="11happy@ teachears*2-67day";
+		Pattern p=Pattern.compile(regx);
+		Matcher m=p.matcher(input);
+		while(m.find())
+			System.out.print(m.group());
+	}
+
+}
